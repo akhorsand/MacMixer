@@ -1,12 +1,12 @@
 # App Audio Mixer
 
-# NOTE VERY IMPORTANT
+*** NOTE VERY IMPORTANT
 
-#Free and open source. macOS will warn that the app is from an unidentified developer — this is normal for free apps. Right-click the app and choose "Open" the first time. You'll also be asked to allow System Audio Recording, which the app needs to control per-app volume (nothing is ever recorded).
+Free and open source. macOS will warn that the app is from an unidentified developer — this is normal for free apps. Right-click the app and choose "Open" the first time. You'll also be asked to allow System Audio Recording, which the app needs to control per-app volume (nothing is ever recorded).
 
-#A macOS menu bar app that gives every app its own volume slider — set Spotify to 30% while a YouTube video in Chrome stays at 100%, mute Discord notifications without muting the system, and so on.
+A macOS menu bar app that gives every app its own volume slider — set Spotify to 30% while a YouTube video in Chrome stays at 100%, mute Discord notifications without muting the system, and so on.
 
-#READ ABOVE
+READ ABOVE
 
 ## Requirements
 
